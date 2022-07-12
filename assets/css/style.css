@@ -9,6 +9,11 @@ OR prioritizing ID, then Class, then Elements. */
     box-sizing: border-box;
 }
 
+body {
+    color: #39a6b2;
+    font-family: Helvetica, Arial, sans-serif;
+}
+
 header {
     /* Padding and margin is applied in order of Top, Right, Bottom, Left
     OR you can only use one pixel value to apply that value to every side
