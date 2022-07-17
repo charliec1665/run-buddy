@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-# Run Buddy, Inc.
-=======
 # Run Buddy, Inc
->>>>>>> a0cc71d4f5672abdd5823f7486a86b7c75e01725
 
 
 ## Purpose

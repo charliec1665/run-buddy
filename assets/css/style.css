@@ -85,15 +85,28 @@ section {
     background-position: center;
     position: relative;
 }
-/* Hero Style End */
+
+.hero-content {
+    text-align: right;
+    color: white;
+}
+
+.hero-content h1 {
+    font-size: 40px;
+    color: #fce138;
+    font-style: italic;
+    font-weight: light;
+}
 
 /* Hero Form Styling */
 .hero-form {
     color: #024e76;
     background-color: #fce138;
+    opacity: 65%;
     padding: 20px;
     width: 500px;
     border: solid 3px #024e76;
+    border-radius: 3%;
     position: absolute;
     bottom: 120px;
     right: 140px;
